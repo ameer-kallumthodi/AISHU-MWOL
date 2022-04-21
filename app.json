@@ -1,11 +1,11 @@
 {
-    "name": "Prince ser ",
-    "description": "Prince ser is the Modified Version of WhatsAsena, Made By Prince.",
-    "logo": "https://i.imgur.com/CtN47m8.jpeg",
+    "name": "AISHU MWOL ",
+    "description": "AISHU MWOL is the Modified Version of WhatsAsena, Made By AXN4.",
+    "logo": "https://i.imgur.com/mJhs5Bc.jpeg",
     "keywords": ["whatsapp", "userbot", "julie", "WhatsAsena", "mwol", "bot", "ai"],
-    "repository": "https://github.com/PRINCE-SER/Prince_ser",
-    "website":   "https://github.com/PRINCE-SER/Prince_ser",
-    "success_url": "https://github.com/PRINCE-SER/Prince_ser",
+    "repository": "https://github.com/AXN4/AISHU-MWOL",
+    "website":   "https://github.com/AXN4/AISHU-MWOL",
+    "success_url": "https://github.com/AXN4/AISHU-MWOL",
     "stack": "container",
     "env": {
         "PRINCESER_CODE": {
@@ -17,7 +17,7 @@
             "required": false
         },
          "YT_PASSWORD": {
-            "description": "Password is Prince type it in here. Password Prince എന്ന് തന്നെ അടിക്കുക അല്ലേൽ ബോട്ട് error aavum",
+            "description": "Password is AXN4 type it in here. Password Prince എന്ന് തന്നെ അടിക്കുക അല്ലേൽ ബോട്ട് error aavum",
             "required": true
         },
         "LANGUAGE": {
@@ -33,7 +33,7 @@
         "OWNER_NAME": {
             "description": "Fill your name in here. it will show your name in .owner command reply",
             "required": true,
-            "value": "Pʀɪɴᴄᴇ 💝"
+            "value": "AXN4 💝"
         },
         "AUTO_STICKER": {
             "description": "If you likes bgm you can write 'true'. Otherwise false",
@@ -78,7 +78,7 @@
         "LOGO_NAME": {
             "description": "Set the logo list name",
             "required": true,
-            "value": "Prince ser"
+            "value": "AISHU-MWOL"
         },
         "WEL_GIF": {
             "description": "Fill here any gif link if you selected gif as WEELCOME",
@@ -103,7 +103,7 @@
         "CMD_LIST": {
             "description": "You can change Command list emojis like: help/❤️/😅/🍃/💌.)",
             "required": true,
-            "value": "Prince/🎗️/💝/✨/📝"
+            "value": "AXN4/🎗️/💝/✨/📝"
         },
         "BGM_DURATION": {
             "description": "FUNY BGM DURATION  codded by SAIDALI",
@@ -187,12 +187,12 @@
         "NUMBER": {
             "description": "Enter the owner number, You must enter your number, Please don't enter the number with country code ( example : 91 for indian ) Also don't enter space & + on the number ( example : 91996132xxxx for indian ). ( This number will be shown on some commands )",
             "required": false,
-            "value": "918590565968"
+            "value": "918590451659"
         },
         "DEPLOYER": {
             "description": "enter your name here",
             "required": false,
-            "value": "Prince"
+            "value": "AXN4"
         },
         "BOT_NAME": {
             "description": "heading for .list command reply",
