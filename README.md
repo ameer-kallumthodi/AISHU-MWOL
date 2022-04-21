@@ -1,6 +1,5 @@
 
 </p>
-
 <div align="center">
   <p align="center">
 <img src=https://i.imgur.com/mJhs5Bc.jpeg>
@@ -25,12 +24,6 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" />
 
 
-
-</div
-
-## Click Instagram logo to follow this page👇
-
- [![ANY DOUBT REFER IT](https://i.imgur.com/cOevAnk.png)](https://www.instagram.com/_axn4._/)
 
   ### Simple Method
   
