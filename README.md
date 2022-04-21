@@ -72,7 +72,7 @@ $ node julie.js
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://i.imgur.com/21zMdKL.png)](https://chat.whatsapp.com/Bkr0eUKoVse2VgmFazzk4t)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/Bkr0eUKoVse2VgmFazzk4t)
   <div align="center">
        
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AXN4&repo=AISHU-MWOL&theme=nightowl)](https://github.com/AXN4/AISHU-MWOL)
