@@ -8,7 +8,7 @@
     "success_url": "https://github.com/AXN4/AISHU-MWOL",
     "stack": "container",
     "env": {
-        "PRINCESER_CODE": {
+        "AISHUMWOL_CODE": {
             "description": "Type the code when you got by scanning QR through WhatsApp.",
             "required": true
         },
