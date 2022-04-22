@@ -17,7 +17,7 @@ DEBUG = process.env.DEBUG === undefined ? false : convertToBool(process.env.DEBU
 module.exports = {
     VERSION: 'v7.3.6',
     CHANNEL: 'https://t.me/remasterplugin',
-    SESSION: process.env.PRINCESER_CODE === undefined ? '' : process.env.PRINCESER_CODE,
+    SESSION: process.env.AISHUMWOL_CODE === undefined ? '' : process.env.AISHUMWOL_CODE,
     ANTİLİNK: process.env.ANTİ_LİNK === undefined ? 'false' : process.env.ANTİ_LİNK,
     AUTOBİO: process.env.AUTO_BİO === undefined ? 'false' : process.env.AUTO_BİO,
     GANSTYLE: process.env.GAN_IMAGE === undefined ? 'https://i.hizliresim.com/loUtAb.jpg' : process.env.GAN_IMAGE,
@@ -26,7 +26,7 @@ module.exports = {
     KICKMEMSG: process.env.KICKME_MESSAGE === undefined ? 'default' : process.env.KICKME_MESSAGE,
     BLOCKCHAT: process.env.BLOCK_CHAT === undefined ? false : process.env.BLOCK_CHAT,
     WELCOME: process.env.WELCOME === undefined ? 'pp' : process.env.WELCOME,
-    OWNER: process.env.OWNER_NAME === undefined ? '💖Prince💖' : process.env.OWNER_NAME,
+    OWNER: process.env.OWNER_NAME === undefined ? 'AXN4 💝' : process.env.OWNER_NAME,
     PHONE: process.env.NUMBER === undefined ? '+918590565968' : process.env.NUMBER,   
     OA_NAME: process.env.DEPLOYER === undefined ? 'Rafi' : process.env.DEPLOYER,
     ALL: process.env.ALL_CAPTION === undefined ? 'Made By Princeser' : process.env.ALL_CAPTION,
