@@ -94,7 +94,7 @@ No personal support will be provided / We won't spoon feed you.
 If you need help
 you can contact 👇🏻👇🏻 
 ```
-**[![AXN4](https://i.imgur.com/8c02mRI.png)](http://wa.me/918590451659?text=_Hi%20AXN4%20💖✨_)**
+**[![AXN4](https://i.imgur.com/8c02mRI.png)](http://wa.me/918590451659?
 
 ## Developers
   <div align="center">
