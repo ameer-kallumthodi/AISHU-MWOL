@@ -17,13 +17,13 @@
 */
 
 function successfullMessage(msg) {
-    return "✅ *Prince ser*:  ```" + msg + "```"
+    return "✅ *AISHU-MWOL*:  ```" + msg + "```"
 }
 function errorMessage(msg) {
-    return "🛑 *Prince ser*:  ```" + msg + "```"
+    return "🛑 *AISHU-MWOL*:  ```" + msg + "```"
 }
 function infoMessage(msg) {
-    return "⏺️ *Prince ser*:  ```" + msg + "```"
+    return "⏺️ *AISHU-MWOL*:  ```" + msg + "```"
 }
 
 
