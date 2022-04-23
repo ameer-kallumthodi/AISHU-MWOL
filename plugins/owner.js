@@ -30,7 +30,7 @@ else if (Config.WORKTYPE == 'public') {
         }
 
         if (Config.OWNER == 'default') {
-            await message.client.sendMessage(message.jid,'*ᴘʀɪɴͥᴄͭᴇᷤ sᴇͫʀͤ*' , MessageType.text);
+            await message.client.sendMessage(message.jid,'𓂀 𝒜𝒾𝓈𝒽𝓊𝑀𝓌𝑜𝓁 𓂀' , MessageType.text);
         }
         else {
             await message.client.sendMessage(message.jid,Config.OWNER + '\n\n--------------------', MessageType.text);
