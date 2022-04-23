@@ -10,17 +10,17 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the
     var skl = await axios.get("https://i.imgur.com/C4ego0A.jpeg", { responseType: 'arraybuffer' })
 
     await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `Pʀɪɴᴄᴇ Sᴇʀ Bᴏᴛ💝
-ᴄʀᴇᴀᴛᴏʀ ɴᴜᴍʙᴇʀ: wa.me/918590565968
+ᴄʀᴇᴀᴛᴏʀ ɴᴜᴍʙᴇʀ: wa.me/918590451659
 
-ᴄʀᴇᴀᴛᴏʀ ɴᴜᴍʙᴇʀ: wa.me/919446652312
+ᴄʀᴇᴀᴛᴏʀ ɴᴜᴍʙᴇʀ: wa.me/919946432377
 
 Pʀɪɴᴄᴇ ʙᴏᴛ ɢʀᴏᴜᴘ: https://chat.whatsapp.com/FH8pCHTfpCMFkHbWVGVaLv
 
-Gɪᴛʜᴜʙ ʟɪɴᴋ:    https://github.com/PRINCE-SER/Prince_ser
+Gɪᴛʜᴜʙ ʟɪɴᴋ:    https://github.com/AXN4/AISHU-MWOL
 
-Aᴜᴅɪᴏ ᴄᴏᴍᴍᴀᴅᴇ :   https://github.com/PRINCE-SER/Prince_ser/tree/master/Prince_bgms
+Aᴜᴅɪᴏ ᴄᴏᴍᴍᴀᴅᴇ :   https://github.com/AXN4/AISHU-MWOL/tree/master/Aishu_bgms
 
-Sᴛɪᴄᴋᴇʀ ᴄᴏᴍᴍᴀᴅᴇ: https://github.com/PRINCE-SER/Prince_ser/tree/master/Prince_stickers
+Sᴛɪᴄᴋᴇʀ ᴄᴏᴍᴍᴀᴅᴇ: https://github.com/AXN4/AISHU-MWOL/tree/master/Aishu_stickers
 
 
 💝ᴛʜɪs ʙᴏᴛ ᴡᴀs ᴄʀᴇᴀᴛᴇᴅ Bʏ ᴘʀɪɴᴄᴇ sᴇʀ💝
