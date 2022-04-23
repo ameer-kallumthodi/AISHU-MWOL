@@ -14,7 +14,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the
 
 ᴄʀᴇᴀᴛᴏʀ ɴᴜᴍʙᴇʀ: wa.me/919946432377
 
-Pʀɪɴᴄᴇ ʙᴏᴛ ɢʀᴏᴜᴘ: https://chat.whatsapp.com/FH8pCHTfpCMFkHbWVGVaLv
+ᴀɪꜱʜᴜ ᴍᴡᴏʟ ʙᴏᴛ ɢʀᴏᴜᴩ: https://chat.whatsapp.com/Bkr0eUKoVse2VgmFazzk4t
 
 Gɪᴛʜᴜʙ ʟɪɴᴋ:    https://github.com/AXN4/AISHU-MWOL
 
@@ -23,7 +23,7 @@ Aᴜᴅɪᴏ ᴄᴏᴍᴍᴀᴅᴇ :   https://github.com/AXN4/AISHU-MWOL/tree/m
 Sᴛɪᴄᴋᴇʀ ᴄᴏᴍᴍᴀᴅᴇ: https://github.com/AXN4/AISHU-MWOL/tree/master/Aishu_stickers
 
 
-💝ᴛʜɪs ʙᴏᴛ ᴡᴀs ᴄʀᴇᴀᴛᴇᴅ Bʏ ᴘʀɪɴᴄᴇ sᴇʀ💝
+💝ᴛʜɪs ʙᴏᴛ ᴡᴀs ᴄʀᴇᴀᴛᴇᴅ Bʏ ᴀxɴ4💝
 `}) 
 
 }));
