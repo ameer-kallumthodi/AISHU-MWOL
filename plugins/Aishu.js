@@ -30,8 +30,7 @@ WhatsAlexa.addCommand({pattern: 'bot', fromMe: whb, dontAddCommandList: true}, (
 
         {buttonId: 'id2', buttonText: {displayText: 'Chumma irikkuva 😁   \n\n\nnjan fear ayi monwu njan ninde fan ayi 🤭🌚'}, type: 1},
 
-        {buttonId: 'id3', buttonText: {displayText: 'Hlo    \n\n\nchugan thanne🐦'}, type: 1}
-
+        
       ]
 
       
