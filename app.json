@@ -78,7 +78,7 @@
         "LOGO_NAME": {
             "description": "Set the logo list name",
             "required": true,
-            "value": "AISHU-MWOL"
+            "value": "𓂀 𝒜𝒾𝓈𝒽𝓊𝑀𝓌𝑜𝓁 𓂀"
         },
         "WEL_GIF": {
             "description": "Fill here any gif link if you selected gif as WEELCOME",
