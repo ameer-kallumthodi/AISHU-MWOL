@@ -185,7 +185,7 @@
             "value": "default"
         },
         "NUMBER": {
-            "description": "Enter the owner number, You must enter your number, Please don't enter the number with country code ( example : 91 for indian ) Also don't enter space & + on the number ( example : 91996132xxxx for indian ). ( This number will be shown on some commands )",
+            "description": "Enter the owner number, You must enter your number, Please don't enter the number with country code ( example : 91 for indian ) Also don't enter space & + on the number ( example : 918590xxxx for indian ). ( This number will be shown on some commands )",
             "required": false,
             "value": "918590451659"
         },
