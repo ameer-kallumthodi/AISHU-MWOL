@@ -51,20 +51,20 @@ Asena.addCommand({on: 'text', fromMe: false}, (async (message, match) => {
             var uri = encodeURI(match[1])
         let banned = jid.find( Jid => Jid === message.jid);
         if(banned !== undefined) return
-        if (!!message.mention && message.mention[0] == '918590565968@s.whatsapp.net') {
-await message.client.sendMessage(message.jid, fs.readFileSync('./Prince_bgms/spirit.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio,duration: Config.SAID, quoted : message.data, ptt: true})
+        if (!!message.mention && message.mention[0] == '918590451659@s.whatsapp.net') {
+await message.client.sendMessage(message.jid, fs.readFileSync('./Aishu_bgms/spirit.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio,duration: Config.SAID, quoted : message.data, ptt: true})
         }
         if (!!message.mention && message.mention[0] == Config.MENTION) {
 await message.client.sendMessage(message.jid, fs.readFileSync('uploads/mention.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio,duration: Config.SAID, quoted : message.data, ptt: true})
         }
-        if (!!message.mention && message.mention[0] == '919446652312@s.whatsapp.net') {
-await message.client.sendMessage(message.jid, fs.readFileSync('./Prince_bgms/Spirit.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio,duration: Config.SAID, quoted : message.data, ptt: true})
+        if (!!message.mention && message.mention[0] == '918590451659@s.whatsapp.net') {
+await message.client.sendMessage(message.jid, fs.readFileSync('./Aishu_bgms/Spirit.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio,duration: Config.SAID, quoted : message.data, ptt: true})
         }
-const array = ['spirit','Prince','Xxx','Vazha','Umbi','Cr7','look','fan','Song','Sed','Mrng','Name','hi','Pm','mp4','Kanjav','Sarasu','owner','Intro','Pottan','Indro','single','tts','Oo','https','Good night','menu','Hallo','Lub','Oii','prince','Umma','Hai','Power','Poda','Ayin','bot','sed','Pavam','song','Pinne','photo','alive','Okay','Ok','Noob','Nee','nanban','Myre','mp3','Mm','Love','Line','Killadi','kanjav','ith','I love you','Hlo','Mair','help','Ha','group','bye','Bro','Bgm','bgm','Baby','Aysheri','ayn','Hi','Bot','Spirit']
+const array = ['Hi,',Bot,',alive,',git,',AishuMwol,',Haa,',help,',Hii,',Hai,',mp3,',Sed,',Lub,',Kgf,',Photo']
 array.map( async (a) => {
 let pattern = new RegExp(`\\b${a}\\b`, 'g');
 if(pattern.test(message.message)){
-       await message.client.sendMessage(message.jid, fs.readFileSync('./Prince_bgms/' + a + '.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio,duration: Config.SAID, quoted: message.data, ptt: true})
+       await message.client.sendMessage(message.jid, fs.readFileSync('./Aishu_bgms/' + a + '.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio,duration: Config.SAID, quoted: message.data, ptt: true})
 }
 });
     }
