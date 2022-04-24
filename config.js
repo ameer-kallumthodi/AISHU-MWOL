@@ -39,7 +39,7 @@ module.exports = {
     MUTEMSG: process.env.MUTE_MESSAGE === undefined ? 'default' : process.env.MUTE_MESSAGE,
     BGMFILTER: process.env.BGM_FILTER === undefined ? false : convertToBool(process.env.BGM_FILTER),
     LG_LOGO: process.env.LG_LOGO === undefined ? 'https://i.imgur.com/XxpsH71.jpeg' : process.env.LG_LOGO,
-    LOGO_NAME: process.env.LOGO_NAME === undefined ? 'AISHU-MWOL' : process.env.LOGO_NAME,
+    LOGO_NAME: process.env.LOGO_NAME === undefined ? '𓂀 𝒜𝒾𝓈𝒽𝓊𝑀𝓌𝑜𝓁 𓂀' : process.env.LOGO_NAME,
     INBO: process.env.INBO_BLOCK === undefined ? 'false' : process.env.INBO_BLOCK,
     INBO1: process.env.INBO_BLOCK === undefined ? 'true' : process.env.INBO_BLOCK,
     DISBGM: process.env.DISABLE_JID_BGM_FILTER === undefined ? false : process.env.DISABLE_JID_BGM_FILTER,
