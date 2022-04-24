@@ -26,9 +26,9 @@ WhatsAlexa.addCommand({pattern: 'bot', fromMe: whb, dontAddCommandList: true}, (
 
     const buttons = [
 
-        {buttonId: 'id1', buttonText: {displayText: 'I am ok 🙂 \n\n\nOk Boss 😌😂'}, type: 1},
+        {buttonId: 'id1', buttonText: {displayText: 'Ha bhai  😂 \n\n\ chugam thanne 😌😂'}, type: 1},
 
-        {buttonId: 'id2', buttonText: {displayText: 'njan fear ayi 😁   \n\n\nnjan fear ayi monwu njan ninde fan ayi 🤭🌚'}, type: 1},
+        {buttonId: 'id2', buttonText: {displayText: 'Chumma irikkuva 😁   \n\n\nnjan fear ayi monwu njan ninde fan ayi 🤭🌚'}, type: 1},
 
         {buttonId: 'id3', buttonText: {displayText: 'Hlo    \n\n\nchugan thanne🐦'}, type: 1}
 
