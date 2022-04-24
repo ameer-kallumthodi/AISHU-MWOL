@@ -29,7 +29,7 @@ module.exports = {
     OWNER: process.env.OWNER_NAME === undefined ? 'AXN4 💝' : process.env.OWNER_NAME,
     PHONE: process.env.NUMBER === undefined ? '+918590451659' : process.env.NUMBER,   
     OA_NAME: process.env.DEPLOYER === undefined ? 'Rafi' : process.env.DEPLOYER,
-    ALL: process.env.ALL_CAPTION === undefined ? 'Made By Princeser' : process.env.ALL_CAPTION,
+    ALL: process.env.ALL_CAPTION === undefined ? 'Made By AXN4' : process.env.ALL_CAPTION,
     MENTION: process.env.TAG_REPLY === undefined ? '436703081866810@s.whatsapp.net' : process.env.TAG_REPLY,
     ADDMSG: process.env.ADD_MESSAGE === undefined ? 'default' : process.env.ADD_MESSAGE,
     PLKS: process.env.THERI_LIST === undefined ? false : process.env.THERI_LIST,
