@@ -21,382 +21,382 @@ Asena.addCommand({pattern: 'list', fromMe: false, desc: 'command help menu'}, (a
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.jpg, contextInfo: {mentionedJid: message.mention}, caption: `
    ` + config.LOGO_NAME + `
  
-🎗️ .xmedia
+🤹🏻‍♂️ .xmedia
 💖 It is a plugin with more than 25 media tools._ 
 
-🎗️ .audio command
+🤹🏻‍♂️ .audio command
 💖 Bot send all bgm commands 
 
-🎗️ .ownercmnd
+🤹🏻‍♂️ .ownercmnd
 💖 set of commands for bot user or sudo_
 
-🎗️ .codtts
+🤹🏻‍♂️ .codtts
 💖 language code to change the voice in .tts & also for .trt translation_ 
 
-🎗️ .adan 
+🤹🏻‍♂️ .adan 
 💖 Finds prayer time._ 
 💬 Eg:- : .prayer <city>
 
-🎗️ .rename 
+🤹🏻‍♂️ .rename 
 💖 [object Object]_ 
 
-🎗️ .revoke
+🤹🏻‍♂️ .revoke
 
-🎗️ .git
+🤹🏻‍♂️ .git
 💖 it send bot making git
 
-🎗️ .print 
+🤹🏻‍♂️ .print 
 💖 Prints the inside of the file on the server._ 
 
-🎗️ .bashmedia 
+🤹🏻‍♂️ .bashmedia 
 💖 Sends audio, video and photos inside the server._ 
 💬 Eg:- : video.mp4 && media/gif/pic.mp4
 
-🎗️ .addserver
+🤹🏻‍♂️ .addserver
 💖 Uploads image, audio or video to the server._ 
 
-🎗️ .term1 
+🤹🏻‍♂️ .term1 
 💖 Allows to run the command on the server's shell._ 
 
-🎗️ .findvid
+🤹🏻‍♂️ .findvid
 💖 Shows the technical information of the replied video._ 
 
-🎗️ .pm 
+🤹🏻‍♂️ .pm 
 💖 Sends a private message to the replied person._ 
 
-🎗️ .s 
+🤹🏻‍♂️ .s 
 💖 Sends a private voice message to the respondent._ 
 
-🎗️ .anime
+🤹🏻‍♂️ .anime
 💖 random anime image _ 
 
-🎗️ .apkmod
+🤹🏻‍♂️ .apkmod
 
-🎗️ .fatp
+🤹🏻‍♂️ .fatp
 
-🎗️ .ttp 
+🤹🏻‍♂️ .ttp 
 💖 Converts text to plain painting._ 
 
-🎗️ .attp 
+🤹🏻‍♂️ .attp 
 💖 Adds rainbow effect to the text as a sticker._ 
 
-🎗️ .bob 
+🤹🏻‍♂️ .bob 
 💖 Make text on sponge bob's board_ 
 
-🎗️ .slot 
+🤹🏻‍♂️ .slot 
 💖 Mini game for you_ 
 
-🎗️ .gura 
+🤹🏻‍♂️ .gura 
 💖 Create gawr gura text_ 
 
-🎗️ .harta 
+🤹🏻‍♂️ .harta 
 💖 Create random texts_ 
 
-🎗️ .rip 
+🤹🏻‍♂️ .rip 
 💖 Please provide an image link for the effect to be applied (Apply death effect)_ 
 
-🎗️ .qrcode 
+🤹🏻‍♂️ .qrcode 
 💖 Create random texts_ 
 
-🎗️ .nulis 
+🤹🏻‍♂️ .nulis 
 💖 Create random texts_ 
 
-🎗️ .sand 
+🤹🏻‍♂️ .sand 
 💖 Create random texts_ 
 
 💝 .bgm 
 💖 turn on and turn off bgm. -bot owner command_ 
 💬 Eg:- : .bgm on / off
 
-🎗️ .carbon
+🤹🏻‍♂️ .carbon
 💖 It sends carbon picture_ 
 
-🎗️ .warn
+🤹🏻‍♂️ .warn
 💖 warning message_ 
 
-🎗️ .bgm 
+🤹🏻‍♂️ .bgm 
 💖 change reply message BGM mode_ 
 💬 Eg:- : .bgm one / two
 
-🎗️ .git 
+🤹🏻‍♂️ .git 
 💖 owner number_ 
 
-🎗️ .mp3
+🤹🏻‍♂️ .mp3
 💖 Converts video to sound._ 
 
-🎗️ .photo
+🤹🏻‍♂️ .photo
 💖 Converts the sticker to a photo._ 
 
-🎗️ .mp4
+🤹🏻‍♂️ .mp4
 💖 Converts animated stickers to video._ 
 
-🎗️ .doc 
+🤹🏻‍♂️ .doc 
 💖 CONVERT TO DOCUMENT AND ADD GIVEN NAME_ 
 💬 Eg:- :.doc pinky *replace pinky with desired name*
 
-🎗️ .dict 
+🤹🏻‍♂️ .dict 
 💖 Use it as a dictionary.
 Eg: .dict en_US;lead
  For supporting languages send *.lngcode*
 
-🎗️ .meme 
+🤹🏻‍♂️ .meme 
 💖 Photo memes you replied to.
 
-🎗️ .welcome
+🤹🏻‍♂️ .welcome
 💖 It sets the welcome message. If you leave it blank it shows the welcome message._ 
 
-🎗️ .goodbye
+🤹🏻‍♂️ .goodbye
 💖 Sets the goodbye message. If you leave blank, it show's the goodbye message._ 
 
-🎗️ .antilink 
+🤹🏻‍♂️ .antilink 
 💖 Activates the Antilink tool._ 
 💬 Eg:- : .antilink on / off
 
-🎗️ .mediafire 
+🤹🏻‍♂️ .mediafire 
 
-🎗️ .moretxt
+🤹🏻‍♂️ .moretxt
 🍒 more txtit commands_ 
 
-🎗️ .ffire 
+🤹🏻‍♂️ .ffire 
 💖 add your text to random freefire logo_ 
 
-🎗️ .emo 
+🤹🏻‍♂️ .emo 
 💖 emogi to png_ 
 
-🎗️ .notes
+🤹🏻‍♂️ .notes
 💖 Shows all your existing notes._ 
 
-🎗️ .save 
+🤹🏻‍♂️ .save 
 💖 Reply a message and type .save or just use .save <Your note> without replying_ 
 
-🎗️ .deleteNotes
+🤹🏻‍♂️ .deleteNotes
 💖 Deletes *all* your saved notes.
 
-🎗️ .owner
+🤹🏻‍♂️ .owner
 💖 shows the detail of bot owner
 
-🎗️ .jid 
+🤹🏻‍♂️ .jid 
 💖 Giving user's JID.
 
-🎗️ .random 
+🤹🏻‍♂️ .random 
 💖 word image_ 
 
-🎗️ .brdmore 
+🤹🏻‍♂️ .brdmore 
 💖 add readmore before your text
 
-🎗️ .rdmore 
+🤹🏻‍♂️ .rdmore 
 💖 add readmore before your text
 
-🎗️ .removebg 
+🤹🏻‍♂️ .removebg 
 💖 Removes the background of the photos._ 
 
-🎗️ .report 
+🤹🏻‍♂️ .report 
 💖 Sends reports to group admins._ 
 
-🎗️ .get 
+🤹🏻‍♂️ .get 
 
-🎗️ .scan 
+🤹🏻‍♂️ .scan 
 💖 Checks whether the entered number is registered on WhatApp._ 
 
-🎗️ .trt
+🤹🏻‍♂️ .trt
 💖 It translates with Google Translate. You must reply any message._ 
 💬 Eg:- : .trt tr it (From Turkish to Italian)
 
-🎗️ .detectlang
+🤹🏻‍♂️ .detectlang
 💖 Guess the language of the replied message._ 
 
-🎗️ .currency
+🤹🏻‍♂️ .currency
 
-🎗️ .tts 
+🤹🏻‍♂️ .tts 
 💖 It converts text to sound._ 
 
-🎗️ .song 
+🤹🏻‍♂️ .song 
 💖 Uploads the song you wrote._ 
 
-🎗️ .video 
+🤹🏻‍♂️ .video 
 💖 Downloads video from YouTube._ 
 
-🎗️ .sing 
+🤹🏻‍♂️ .sing 
 💖 It sings song that you have written_ 
 
-🎗️ .song 
+🤹🏻‍♂️ .song 
 💖 Uploads the song you wrote for ios users._ 
 
-🎗️ .wiki 
+🤹🏻‍♂️ .wiki 
 💖 Searches query on Wikipedia._ 
 
-🎗️ .img 
+🤹🏻‍♂️ .img 
 💖 Searches for related pics on Google._ 
 
-🎗️ .github 
+🤹🏻‍♂️ .github 
 💖 Collects github information from the given username.
 ⌨️ Example: .github phaticusthiccy_ 
  
-🎗️ .lyric 
+🤹🏻‍♂️ .lyric 
 💖 Finds the lyrics of the song._ 
 
-🎗️ .covid 
+🤹🏻‍♂️ .covid 
 💖 Shows the daily and overall covid table of more than 15 countries._ 
 
-🎗️ .sweather 
+🤹🏻‍♂️ .sweather 
 💖 Gives you the weekly interpretations of space weather observations provided by the Space Weather Research Center (SWRC) for a p._ 
 
-🎗️ .compliment 
+🤹🏻‍♂️ .compliment 
 💖 It sends complimentry sentenses_ 
 
-🎗️ .hmod 
+🤹🏻‍♂️ .hmod 
 💖 Finds mod apps from happymod_ 
 
-🎗️ .insult 
+🤹🏻‍♂️ .insult 
 💖 It sends insulted words_ 
 
-🎗️ .movie 
+🤹🏻‍♂️ .movie 
 💖 Shows movie info._ 
 
-🎗️ .joke 
+🤹🏻‍♂️ .joke 
 💖 It sends random jokes_ 
 
-🎗️ .roll
+🤹🏻‍♂️ .roll
 💖 roll dise 
 
-🎗️ .owner
+🤹🏻‍♂️ .owner
 💖 shows the detail of bot owner_ 
 
-🎗️ .quote 
+🤹🏻‍♂️ .quote 
 💖 It shares famous quotes_ 
 
-🎗️ .ss 
+🤹🏻‍♂️ .ss 
 💖 Takes a screenshot from the page in the given link._ 
 
-🎗️ .setvar
+🤹🏻‍♂️ .setvar
 💖 It send setvars of bot 
 
-🎗️ .encrpt 
+🤹🏻‍♂️ .encrpt 
 💖 Text encryption using base64._ 
 💬 Eg:- : .b64en <text>
 
-🎗️ .show 
+🤹🏻‍♂️ .show 
 💖 Get info related to tv series and shows_ 
 
-🎗️ .ig 
+🤹🏻‍♂️ .ig 
 💖 Fetches user informations from instagram_ 
 
-🎗️ .animesay 
+🤹🏻‍♂️ .animesay 
 💖 It writes the text inside the banner the anime girl is holding_ 
 
-🎗️ .changesay 
+🤹🏻‍♂️ .changesay 
 💖 Turns the text into the change my mind poster._ 
 
-🎗️ .trumpsay 
+🤹🏻‍♂️ .trumpsay 
 💖 Converts the text to Trump's tweet._ 
 
-🎗️ .pdf 
+🤹🏻‍♂️ .pdf 
 💖 Converts a Site into PDF_ 
 
-🎗️ .bgm 
+🤹🏻‍♂️ .bgm 
 💖 turn on and turn off bgm. -bot owner command_ 
 💬 Eg:- : .bgm on / off
 
-🎗️ .autosticker 
+🤹🏻‍♂️ .autosticker 
 💖 turn on and turn off bgm. -bot owner command_ 
 💬 Eg:- : .sticker on / off
 
-🎗️ .sudo 
+🤹🏻‍♂️ .sudo 
 💖 changes sudo numbers_ 
 💬 Eg:- : .sudo *your number*
 
-🎗️ .caption 
+🤹🏻‍♂️ .caption 
 💖 changes all captions_ 
 💬 Eg:- : .caption *Made by Miss Helena*
 
-🎗️ .number 
+🤹🏻‍♂️ .number 
 💖 change user number_ 
 💬 Eg:- : .number *Made by Helena*
 
-🎗️ .deployer 
+🤹🏻‍♂️ .deployer 
 💖 change user name_ 
 💬 Eg:- : .deployer *Made by Helena*
 
-🎗️ .handlers 
+🤹🏻‍♂️ .handlers 
 💖 changes handlers_ 
 💬 Eg:- : .handler ^[.!] 
 
-🎗️ .botname 
+🤹🏻‍♂️ .botname 
 💖 change your bot name_ 
 💬 Eg:- : .botname *name* 
 
-🎗️ .theri  
+🤹🏻‍♂️ .theri  
 💖 change your theri commands_ 
 💬 Eg:- : .theri command,command
 
-🎗️ .sticker
+🤹🏻‍♂️ .sticker
 💖 It converts your replied photo or video to sticker._ 
 
-🎗️ .ffpack
+🤹🏻‍♂️ .ffpack
 💖 Free Fire logo maker_ 
 
-🎗️ .ffpack
+🤹🏻‍♂️ .ffpack
 💖 Free Fire logo maker_ 
 
-🎗️ .alive
+🤹🏻‍♂️ .alive
 💖 Does bot work?_ 
 
-🎗️ .sysd
+🤹🏻‍♂️ .sysd
 💖 Shows the system properties._ 
 
-🎗️ .tagadmin
+🤹🏻‍♂️ .tagadmin
 💖 Tags group admins._ 
 
-🎗️ .txtit
+🤹🏻‍♂️ .txtit
 💖 Shows text to image tools with unlimited access._ 
 
-🎗️ .antibadword 
+🤹🏻‍♂️ .antibadword 
 💖 turn on & off anti-badword To remove members when they use bad words_ 
 💬 Eg:- : .antibadword on / off
 
-🎗️ .a 
+🤹🏻‍♂️ .a 
 💖 Converts audio to sound recording._ 
 
-🎗️ .unvoice
+🤹🏻‍♂️ .unvoice
 💖 Converts audio to sound recording._ 
 
-🎗️ .update
+🤹🏻‍♂️ .update
 💖 Checks the update._ 
 
-🎗️ .update now
+🤹🏻‍♂️ .update now
 💖 It makes updates._ 
 
-🎗️ .wallpaper
+🤹🏻‍♂️ .wallpaper
 💖 It sends high resolution wallpapers._ 
 
-🎗️ .wame 
+🤹🏻‍♂️ .wame 
 💖 Get a link to the user chat._ 
 
-🎗️ .rwarn
+🤹🏻‍♂️ .rwarn
 💖 Warning message 0_ 
 
-🎗️ .weather 
+🤹🏻‍♂️ .weather 
 💖 Shows the weather._ 
 
-🎗️ .speedtest
+🤹🏻‍♂️ .speedtest
 💖 Measures Download and Upload speed._ 
 
-🎗️ .ping
+🤹🏻‍♂️ .ping
 💖 Measures your ping._ 
 
-🎗️ .short 
+🤹🏻‍♂️ .short 
 💖 Shorten the long link._ 
 
-🎗️ .calc 
+🤹🏻‍♂️ .calc 
 💖 Performs simple math operations._ 
 
-🎗️ .sendi
+🤹🏻‍♂️ .sendi
 💖 Download status from wa_ 
 
-🎗️ .sendv
+🤹🏻‍♂️ .sendv
 💖 Download status from wa_ 
 
-🎗️ .whois
+🤹🏻‍♂️ .whois
 💖 Displays metadata data of group or person._ 
 `}) 
 
