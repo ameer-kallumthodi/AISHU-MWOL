@@ -200,7 +200,7 @@
             "value": "•ᴀɪꜱʜᴜ ᴍᴡᴏʟ•"
         },
         "WORK_TYPE": {
-            "description": "prince ser Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
+            "description": "AISHU MWOL Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
             "required": true,
             "value": "public"
         },
