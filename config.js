@@ -47,7 +47,7 @@ module.exports = {
     DISSTICKER: process.env.DISABLE_STICKER === undefined ? false : process.env.DISABLE_STICKER,
     BOT: process.env.BOT_NAME === undefined ? '⊢‒‒‒ ⋈ ᴀɪꜱʜᴜ ᴍᴡᴏʟ ⋈ ‒‒‒⊣' : process.env.BOT_NAME,
     BOTSK: process.env.BOT_NAME === undefined ? 'ᴀɪꜱʜᴜ ᴍᴡᴏʟ' : process.env.BOT_NAME,
-    LOGOSK: process.env.ALL_IMG === undefined ? 'https://telegra.ph/file/24a514f7870c10871446c.jpg' : process.env.ALL_IMG,
+    LOGOSK: process.env.ALL_IMG === undefined ? 'https://i.imgur.com/mJhs5Bc.jpeg' : process.env.ALL_IMG,
     SKDL: process.env.DIALOGUE === undefined ? '🤩 All The Dreams Like Twinkle Stars 🤩' : process.env.DIALOGUE,
     JID: process.env.VERIFIED === undefined ? '0@s.whatsapp.net' : process.env.VERIFIED,
     SKV: process.env.V_HEADER === undefined ? '*YOUR HEADER HERE*' : process.env.V_HEADER,
