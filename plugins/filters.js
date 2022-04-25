@@ -129,7 +129,6 @@ await message.client.sendMessage(message.jid, fs.readFileSync('./Aishu_stickers/
      }
        
 const array = ['Lub','Sed','Hi','A']
-']
 array.map( async (a) => {
 let pattern = new RegExp(`\\b${a}\\b`, 'g');
 if(pattern.test(message.message)){
