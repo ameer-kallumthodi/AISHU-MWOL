@@ -121,14 +121,15 @@ Asena.addCommand({on: 'text', fromMe: false}, (async (message, match) => {
     if(Config.STICKERP){
     let banned = jid.find( Jid => Jid === message.jid);
     if(banned !== undefined) return
-    if (!!message.mention && message.mention[0] == '918590565968@s.whatsapp.net') {
-await message.client.sendMessage(message.jid, fs.readFileSync('./Prince_stickers/Prince.webp'), MessageType.sticker, { mimetype: Mimetype.webp, quoted : message.data, ptt: false})
+    if (!!message.mention && message.mention[0] == '918590451659@s.whatsapp.net') {
+await message.client.sendMessage(message.jid, fs.readFileSync('./Aishu_stickers/Aishu.webp'), MessageType.sticker, { mimetype: Mimetype.webp, quoted : message.data, ptt: false})
     }
- if (!!message.mention && message.mention[0] == '919446652312@s.whatsapp.net') {
-await message.client.sendMessage(message.jid, fs.readFileSync('./Prince_stickers/Indro.webp'), MessageType.sticker, { mimetype: Mimetype.webp,quoted : message.data, ptt: false})
+ if (!!message.mention && message.mention[0] == '918590451659@s.whatsapp.net') {
+await message.client.sendMessage(message.jid, fs.readFileSync('./Aishu_stickers/Indro.webp'), MessageType.sticker, { mimetype: Mimetype.webp,quoted : message.data, ptt: false})
      }
        
-const array = ['Hi','alive','Prince','ayin','Mm','fan','song','love','git','single','Mrng','Kanjav','Intro','Indro','Uff','prince','owner','Bot']
+const array = ['Lub','Sed','Hi','A']
+']
 array.map( async (a) => {
 let pattern = new RegExp(`\\b${a}\\b`, 'g');
 if(pattern.test(message.message)){
