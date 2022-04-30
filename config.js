@@ -26,7 +26,7 @@ module.exports = {
     KICKMEMSG: process.env.KICKME_MESSAGE === undefined ? 'default' : process.env.KICKME_MESSAGE,
     BLOCKCHAT: process.env.BLOCK_CHAT === undefined ? false : process.env.BLOCK_CHAT,
     WELCOME: process.env.WELCOME === undefined ? 'pp' : process.env.WELCOME,
-    OWNER: process.env.OWNER_NAME === undefined ? 'AXN4 💝' : process.env.OWNER_NAME,
+    OWNER: process.env.OWNER_NAME === undefined ? '*ᴀɪꜱʜᴜ ᴍᴡᴏʟ ʙʏ  ᴀxɴ4 ᴀᴍᴇᴇʀ* 💝' : process.env.OWNER_NAME,
     PHONE: process.env.NUMBER === undefined ? '+918590451659' : process.env.NUMBER,   
     OA_NAME: process.env.DEPLOYER === undefined ? 'Rafi' : process.env.DEPLOYER,
     ALL: process.env.ALL_CAPTION === undefined ? 'Made By AXN4' : process.env.ALL_CAPTION,
