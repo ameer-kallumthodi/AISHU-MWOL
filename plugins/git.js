@@ -23,7 +23,7 @@ Aᴜᴅɪᴏ ᴄᴏᴍᴍᴀᴅᴇ :   https://github.com/ameer-kallumthodi/AISH
 Sᴛɪᴄᴋᴇʀ ᴄᴏᴍᴍᴀᴅᴇ: https://github.com/ameer-kallumthodi/AISHU-MWOL/tree/master/Aishu_stickers
 
 
-💝ᴛʜɪs ʙᴏᴛ ᴡᴀs ᴄʀᴇᴀᴛᴇᴅ Bʏ ᴀxɴ4💝
+💝ᴛʜɪs ʙᴏᴛ ᴡᴀs ᴄʀᴇᴀᴛᴇᴅ Bʏ ᴀxɴ4 ᴀᴍᴇᴇʀ💝
 `}) 
 
 }));
