@@ -100,7 +100,7 @@ you can contact 👇🏻👇🏻
 ## Developers
   <div align="center">
 
-  [![AXN4](https://i.imgur.com/XxpsH71.jpeg)](https://github.com/AXN4)[`AXN4`](https://github.com/AXN4)
+  [![AXN4](https://i.imgur.com/XxpsH71.jpeg)](https://github.com/AXN4)[`AXN4`](https://github.com/AXN4)[![ameer-kallumthodi](https://github.com/ameer-kallumthodi.png?size=200)](https://github.com/ameer-kallumthodi)[`AXN4`](https://github.com/ameer-kallumthodi)
 ----|
    `owner , Modules, Commits, Bug Fixes, Modules, Re-Developer, Modules,  Modifiying  as   public ` 
   </div>
