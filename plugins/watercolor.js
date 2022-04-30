@@ -17,7 +17,7 @@ if (Config.WORKTYPE == 'private') {
 
     var ttinullimage = await axios.get(`https://docs-jojo.herokuapp.com/api/watercolor?text=${encodeURIComponent(match[1])}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer.from(ttinullimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*ᴍᴀᴅᴇ ʙʏ ᴀxɴ4*' })
+    await message.sendMessage(Buffer.from(ttinullimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*ᴍᴀᴅᴇ ʙʏ ᴀxɴ4 ᴀᴍᴇᴇʀ*' })
 
   }));
 }
