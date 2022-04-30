@@ -3,9 +3,9 @@
     "description": "AISHU MWOL is the Modified Version of WhatsAsena, Made By AXN4.",
     "logo": "https://i.imgur.com/mJhs5Bc.jpeg",
     "keywords": ["whatsapp", "userbot", "julie", "WhatsAsena", "mwol", "bot", "ai"],
-    "repository": "https://github.com/AXN4/AISHU-MWOL",
-    "website":   "https://github.com/AXN4/AISHU-MWOL",
-    "success_url": "https://github.com/AXN4/AISHU-MWOL",
+    "repository": "https://github.com/ameer-kallumthodi/AISHU-MWOL",
+    "website":   "https://github.com/ameer-kallumthodi/AISHU-MWOL",
+    "success_url": "https://github.com/ameer-kallumthodi/AISHU-MWOL",
     "stack": "container",
     "env": {
         "AISHUMWOL_CODE": {
