@@ -16,11 +16,11 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the
 
 ᴀɪꜱʜᴜ ᴍᴡᴏʟ ʙᴏᴛ ɢʀᴏᴜᴩ: https://chat.whatsapp.com/Bkr0eUKoVse2VgmFazzk4t
 
-Gɪᴛʜᴜʙ ʟɪɴᴋ:    https://github.com/AXN4/AISHU-MWOL
+Gɪᴛʜᴜʙ ʟɪɴᴋ:    https://github.com/ameer-kallumthodi/AISHU-MWOL
 
-Aᴜᴅɪᴏ ᴄᴏᴍᴍᴀᴅᴇ :   https://github.com/AXN4/AISHU-MWOL/tree/master/Aishu_bgms
+Aᴜᴅɪᴏ ᴄᴏᴍᴍᴀᴅᴇ :   https://github.com/ameer-kallumthodi/AISHU-MWOL/tree/master/Aishu_bgms
 
-Sᴛɪᴄᴋᴇʀ ᴄᴏᴍᴍᴀᴅᴇ: https://github.com/AXN4/AISHU-MWOL/tree/master/Aishu_stickers
+Sᴛɪᴄᴋᴇʀ ᴄᴏᴍᴍᴀᴅᴇ: https://github.com/ameer-kallumthodi/AISHU-MWOL/tree/master/Aishu_stickers
 
 
 💝ᴛʜɪs ʙᴏᴛ ᴡᴀs ᴄʀᴇᴀᴛᴇᴅ Bʏ ᴀxɴ4💝
